@@ -7,7 +7,7 @@ Shows how SLF4j can be configured at runtime and log levels changed dynamically 
 Java (8+)
 Gradle
 
-#Usage
+# Usage
 
 `gradle run`
 
