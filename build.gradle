@@ -9,6 +9,8 @@ repositories {
 dependencies {
     compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.1.0.RELEASE'
     compile group: 'org.apache.tomcat.embed', name: 'tomcat-embed-jasper', version: '9.0.13'
+    compile group: 'javax.servlet', name: 'jstl', version: '1.2'
+
 }
 
 mainClassName = 'ca.sean.App'
